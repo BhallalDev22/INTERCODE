@@ -1,5 +1,5 @@
 # INTERCODE
-MNNIT Avishkar-2k19 Softablitz advanced problem statement, INTERCODE
+MNNIT Avishkar-2k19 Softablitz advance problem statement, INTERCODE
 
 Intercode is a java based project. InterCode is an application
 that takes Telephonic Technical Interviews to next level, by
